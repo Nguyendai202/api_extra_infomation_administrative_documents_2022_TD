@@ -1,0 +1,13 @@
+fastapi==0.82.0
+typing==3.7.4.3
+uvicorn==0.18.3
+argparse==1.4.0
+opencv-python==4.6.0.66
+numpy==1.23.2
+torch==1.12.1
+torchvision==0.13.1
+aspose-words==22.9.0
+Pillow==9.2.0
+vietocr==0.3.9
+os-sys==2.1.4
+multithreading==0.2.0
